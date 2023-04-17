@@ -9,8 +9,8 @@ const PABLO_BENITO = {
   github: "https://github.com/PabloBenitoAR"
 }
 ```
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablobenito2001&repo=MyMyGradient&bg_color=deg,f31a4f,474fb2&text_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablobenito2001&repo=PokeFind-SupraVersion&bg_color=deg,f31a4f,474fb2&text_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablobenito2001&repo=MyMyGradient&bg_color=deg,0A2948,015886,91AACC&text_color=ffffff&icon_color=ffffff&hide_border=true&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablobenito2001&repo=PokeFind-SupraVersion&bg_color=deg,0A2948,015886,91AACC&text_color=ffffff&icon_color=ffffff&hide_border=true&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 you can find me 🌎:
 - [Linkedin](https://www.linkedin.com/in/pablo-benito-53610b222/)
@@ -18,4 +18,4 @@ you can find me 🌎:
 - [GitHub](https://github.com/PabloBenitoAR)
 - [Instagram](https://www.instagram.com/gallade2001/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablobenito2001&layout=compact&bg_color=deg,f31a4f,474fb2&text_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablobenito2001&layout=compact&bg_color=deg,0A2948,015886,91AACC&text_color=ffffff&icon_color=ffffff&hide_border=true&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
