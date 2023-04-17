@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**PabloBenitoAR/PabloBenitoAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### HI i'm PABLO BENITO JR Front-end Developer
 
-Here are some ideas to get you started:
+```js
+const PABLO_BENITO = {
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: ["vue", "Vue Router", "Vuelidate", "VueUse", "Pinia", "SASS", "Git"],
+  learning: ["React", "Redux", "React Router", "Rust", "NodeJS"],
+  github: "https://github.com/PabloBenitoAR"
+}
+```
+you can find me 🌎:
+- [Linkedin](https://www.linkedin.com/in/pablo-benito-53610b222/)
+- [Twitter](https://twitter.com/PlaggbySia)
+- [GitHub](https://github.com/PabloBenitoAR)
+- [Instagram](https://www.instagram.com/gallade2001/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloBenitoAR)](https://github.com/anuraghazra/github-readme-stats)
