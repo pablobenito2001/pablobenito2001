@@ -15,4 +15,4 @@ you can find me 🌎:
 - [GitHub](https://github.com/PabloBenitoAR)
 - [Instagram](https://www.instagram.com/gallade2001/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablobenito2001)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablobenito2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
