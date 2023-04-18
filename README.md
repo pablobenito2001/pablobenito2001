@@ -1,6 +1,6 @@
 
 ### HI i'm PABLO BENITO👋
-### jr Front-End Developer
+### Front-End Developer
 
 ```js
 const PABLO_BENITO = {
