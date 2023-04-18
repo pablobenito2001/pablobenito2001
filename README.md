@@ -9,6 +9,8 @@ const PABLO_BENITO = {
   github: "https://github.com/PabloBenitoAR"
 }
 ```
+I'm a self taught programmer👨‍💻, I'm passionate about web development, my main javascript framework is Vue but I'm learning React. I love💖 listening to music🎵, playing games🧟‍♂️ & play with my 🐈pets🐕.
+
 ### Main Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablobenito2001&repo=MyMyGradient&bg_color=0A2948&text_color=ffffff&icon_color=ffffff&hide_border=true&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablobenito2001&repo=PokeFind-SupraVersion&bg_color=0A2948&text_color=ffffff&icon_color=ffffff&hide_border=true&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
