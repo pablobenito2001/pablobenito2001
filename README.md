@@ -14,7 +14,7 @@ I'm a self-taught Developer👨‍💻, passionate about web development, my mai
 
 ### Main Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablobenito2001&repo=MyMyGradient&bg_color=0A2948&text_color=ffffff&icon_color=ffffff&hide_border=true&title_color=ffffff)](https://github.com/pablobenito2001/MyMyGradient)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablobenito2001&repo=PokeFind-SupraVersion&bg_color=0A2948&text_color=ffffff&icon_color=ffffff&hide_border=true&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablobenito2001&repo=PokeFind-SupraVersion&bg_color=0A2948&text_color=ffffff&icon_color=ffffff&hide_border=true&title_color=ffffff)](https://github.com/pablobenito2001/PokeFind-SupraVersion)
 
 you can find me 🌎:
 - [Linkedin](https://www.linkedin.com/in/pablo-benito-53610b222/)
