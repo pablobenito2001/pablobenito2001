@@ -5,7 +5,7 @@
 ```js
 const PABLO_BENITO = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  tools: ["vue", "Vue Router", "Vuelidate", "VueUse", "Pinia", "SASS", "Git"],
+  tools: ["vue", "Vue Router", "Vuelidate", "Pinia", "SASS", "Git"],
   learning: ["React", "Redux", "React Router", "Rust", "NodeJS"],
   github: "https://github.com/PabloBenitoAR"
 }
