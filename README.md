@@ -8,7 +8,7 @@
   
 - 🧙‍♂️ My Skills: 
    - `javascript` 
-   - `typescipt` 
+   - `typescript` 
    - `json` 
    - `HTML` 
    - `SCSS` 
