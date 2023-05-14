@@ -6,7 +6,14 @@
   <h2><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="60"> More about me...</h2>
 </div>
   
-- 🧙‍♂️ Using daily: `.js` `.ts` `.json` `.html` `.scss` `.css` `.vue`
+- 🧙‍♂️ Using daily: 
+   - `javascript` 
+   - `typescipt` 
+   - `json` 
+   - `HTML` 
+   - `SCSS` 
+   - `CSS` 
+   - `Vue.js`
   
 - 👽 Learning: `.jsx` `.tsx` `.py` `.rs` 
 
