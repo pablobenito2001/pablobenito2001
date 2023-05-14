@@ -6,7 +6,7 @@
   <h2><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="60"> More about me...</h2>
 </div>
   
-- 🧙‍♂️ Using daily: 
+- 🧙‍♂️ My Skills: 
    - `javascript` 
    - `typescipt` 
    - `json` 
