@@ -1,18 +1,18 @@
 
-### HI i'm PABLO BENITO👋
-### Front-End Developer
+<h2 align='center'><code>< HelloWorld 🖖 ></code>   I'm Pablo</h2>
+<h3 align='center'>I am a self-taught developer based in Argentina🐋, when things go wrong a good 🍙Sia🍙 song makes everything better.</h3>
 
-```js
-const PABLO_BENITO = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  tools: ["vue", "Vue Router", "Vuelidate", "Pinia", "SASS", "Git"],
-  learning: ["React", "Redux", "React Router", "Rust", "NodeJS"],
-  github: "https://github.com/PabloBenitoAR"
-}
-```
-I'm a self-taught Developer👨‍💻, passionate about web development, my main javascript framework is Vue but I'm learning React. I love💖 listening to music🎵, playing videogames🧟‍♂️ & playing with my 🐈pets🐕.
+<div>
+  <h2><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="60"> More about me...</h2>
+</div>
+  
+- 🧙‍♂️ Using daily: `.js` `.ts` `.json` `.html` `.scss` `.css` `.vue`
+  
+- 👽 Learning: `.jsx` `.tsx` `.py` `.rs` 
 
-you can find me 🌎:
+- 🤖 Tools: `git` `pinia` `vue router` `figma` `vite`
+
+### Contact With Me:
 - [Linkedin](https://www.linkedin.com/in/pablo-benito-53610b222/)
 - [Twitter](https://twitter.com/PlaggbySia)
 - [GitHub](https://github.com/PabloBenitoAR)
