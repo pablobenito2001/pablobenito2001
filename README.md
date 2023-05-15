@@ -2,10 +2,10 @@
 <h2 align='center'><code>< HelloWorld 🖖 ></code>   I'm Pablo</h2>
   
 Español
-<h3 align='center'>Soy un técnico en informática y desarrollador front-end radicado en Buenos Aires, Argentina. Me encanta desarollar interfaces graficas con el framework Vue.js, TypeScript.</h3>  
+<h3 align='center'>Soy un técnico en informática y desarrollador front-end radicado en Buenos Aires, 🐋Argentina🐋. Me encanta desarollar interfaces graficas con el framework Vue.js💚 y TypeScript👾.</h3>  
   
 English
-<h3 align='center'>I'm a computer technician and front-end developer based in Buenos Aires, Argentina. I love developing graphic interfaces with the Vue.js framework and TypeScript.</h3>
+<h3 align='center'>I'm a computer technician and front-end developer based in Buenos Aires, 🐋Argentina🐋. I love developing graphic interfaces with the Vue.js💚 framework and TypeScript👾.</h3>
   
 <div>
   <h2><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="60"> More about me...</h2>
